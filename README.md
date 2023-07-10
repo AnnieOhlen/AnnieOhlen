@@ -4,9 +4,7 @@
 - ✨ Interests: Web developement and user focused design.
 - 🌱 Learning: C# with .NET and Visual Studio, Java with Android Studio.
 
-I am attending a two year long education, focused on .NET to become a software developer, which began in September 2022 and is expected to finish by the end of May 2024.
-
-Currently using GitHub to upload my school assignments, projects for learning and my own project ideas.
+Starting September 2022 I attend a two year long education, focused on .NET, to become a software developer.
 
 <!---
 To add at a later date:
