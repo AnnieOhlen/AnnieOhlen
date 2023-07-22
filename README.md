@@ -12,11 +12,9 @@
 
 Starting September 2022 I attend a two year long education, focused on .NET, to become a software developer.
 
-
-
 <h2>Languages & Tools</h2>
 <a href="https://skillicons.dev">
-  <img align="left" src="https://skillicons.dev/icons?i=html,css,cs,dotnet,java,github,androidstudio,blender,unity,visualstudio,vscode" />
+  <img align="left" src="https://skillicons.dev/icons?i=html,css,cs,dotnet,java,github,androidstudio,blender,unity,visualstudio,vscode&perline=8" />
 </a>
 
 <a href="https://github.com/AnnieOhlen/github-readme-stats">
