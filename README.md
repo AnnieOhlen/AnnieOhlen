@@ -21,7 +21,8 @@
   <a href="https://skillicons.dev">
     <img align="left" src="https://skillicons.dev/icons?i=html,css,cs,dotnet,java,github,androidstudio,blender,unity,visualstudio,vscode&perline=5" />
   </a>
-
+<!--
   <a href="https://github.com/AnnieOhlen/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieOhlen&layout=compact&langs_count=10&theme=dracula" />
   </a>
+-->
