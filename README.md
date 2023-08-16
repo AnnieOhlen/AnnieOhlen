@@ -16,11 +16,21 @@
   Starting September 2022 I attend a two year long education, focused on .NET, to become a software developer.
 </div>
 
-  <h3 align="left">Languages & Tools</h3>
+<div align="center">
+  <h3>Languages & Tools</h3>
   
   <a href="https://skillicons.dev">
-    <img align="left" src="https://skillicons.dev/icons?i=html,css,cs,dotnet,java,github,androidstudio,blender,unity,visualstudio,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,java" />
   </a>
+
+  <br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,blender,visualstudio,vscode" />
+  </a>
+  
+</div>
+  
 <!--
   <a href="https://github.com/AnnieOhlen/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieOhlen&layout=compact&langs_count=10&theme=dracula" />
