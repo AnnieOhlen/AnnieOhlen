@@ -5,7 +5,7 @@
 🌱 <b>Learning:</b> C# with .NET and Visual Studio | App development with Android Studio | Unity | 🌱
   
   Starting September 2022 I attend a two year long education, focused on .NET, to become a software developer.
-
+  <!--
 <div align="center">
   <h3>Languages & Tools</h3>
   
@@ -14,13 +14,13 @@
   </a>
 
   <br>
-  
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,androidstudio,blender,visualstudio,vscode" />
   </a>
   
 </div>
-
+-->
 <br>
 
 <div align="center">
