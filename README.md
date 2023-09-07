@@ -25,6 +25,6 @@
 
 <div align="center">
   <a href="https://github.com/AnnieOhlen/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieOhlen&layout=compact&langs_count=10&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieOhlen&layout=compact&langs_count=10&theme=cobalt" />
   </a>
 </div>
