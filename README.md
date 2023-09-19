@@ -2,7 +2,7 @@
   <h1>Hi, I'm Annie !</h1>
 ✨ <b>Interests:</b> User focused design. ✨
 
-🌱 <b>Learning:</b> C# with .NET and Visual Studio | App development with Android Studio | Unity | Web development | 🌱
+🌱 <b>Learning:</b> C# with .NET and Visual Studio | App development with Android Studio | Web development | 🌱
   
   Starting September 2022 I attend a two year long education, focused on .NET, to become a software developer.
   Trying out different things to see what I would like to continue with after completed education.
