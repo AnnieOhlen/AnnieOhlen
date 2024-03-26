@@ -3,7 +3,7 @@
 ✨ <b>Interests:</b> User focused design. ✨
 
 Starting September 2022 I attend a two year long education to become a software developer.<br>
-🌱 <b>Currently learning:</b> Angular 🌱
+🌱 <b>Currently learning:</b> Angular 17 🌱
 
   <a href="https://github.com/AnnieOhlen/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieOhlen&layout=compact&langs_count=10&theme=cobalt" />
