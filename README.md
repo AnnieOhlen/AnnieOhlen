@@ -1,5 +1,5 @@
 ### Hi, I'm Annie
-Student attending in software development.  
+Studying software development.  
 Graduation at the end of May 2024.  
   
 **Currently learning:** Angular 17 🌱  
