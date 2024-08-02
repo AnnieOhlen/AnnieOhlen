@@ -1,5 +1,5 @@
 # Hi! 
-I'm Annie, a software developer student graduating from vocational studies at the end of May 2024. Passionate about user focused design.  
+I'm Annie, a software developer graduate. Passionate about user focused design.  
 
 ## Currently Exploring ✨
 - Java & Spring Boot for REST API
