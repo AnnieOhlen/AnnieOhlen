@@ -1,5 +1,5 @@
 # Hi! 
-I'm Annie, a software developer graduate. Passionate about user focused design.  
+I'm Annie, an associate software engineer. Passionate about user focused design.  
 
 ## Currently Exploring ✨
 - Java & Spring Boot for REST API
