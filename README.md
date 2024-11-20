@@ -3,8 +3,7 @@ I'm Annie, an associate software engineer. Passionate about user focused design.
 
 ## Currently Exploring ✨
 - Java & Spring Boot for REST API
-- Angular 17 with TypeScript
-
+- Angular with TypeScript
 ## Tech Stack 🍂
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,scss,angular,typescript,cs,dotnet,java,&perline=5)](https://skillicons.dev)  
   <a href="https://github.com/AnnieOhlen/github-readme-stats">
