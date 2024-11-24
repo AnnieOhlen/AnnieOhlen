@@ -4,6 +4,7 @@ I'm Annie, an associate software engineer. Passionate about user focused design.
 ## Currently Exploring ✨
 - Java
 - Angular with TypeScript
+- 3D with Blender
 ## Tech Stack 🍂
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,scss,angular,typescript,cs,dotnet,java,&perline=5)](https://skillicons.dev)  
   <a href="https://github.com/AnnieOhlen/github-readme-stats">
